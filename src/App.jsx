@@ -77,6 +77,7 @@ export default function App() {
   return (
     <div className="page">
       <h1>Lifecycle Lighthouse</h1>
+      <p>CI/CD Pipeline Active</p>
 
       {/* Status Panel */}
       <section className="panel">
